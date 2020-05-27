@@ -38,7 +38,8 @@ $url = new Net_URL2(
 <pre>
     con khi ướt ướt hết
 Protocol cherry test...: <?php echo $url->protocol; ?>
-
+sdfdsfdsfsdf
+nhanh khac
 Username...: <?php echo $url->user; ?>
 
 Password...: <?php echo $url->pass; ?>
