@@ -40,6 +40,8 @@ $url = new Net_URL2(
 Protocol cherry test...: <?php echo $url->protocol; ?>
 sdfdsfdsfsdf
 nhanh khac nhánh khác thiệt
+test cherry pick
+nhác khác 1 
 Username...: <?php echo $url->user; ?>
 
 Password...: <?php echo $url->pass; ?>
