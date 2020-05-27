@@ -45,6 +45,8 @@ nhác khác 1
 nhanh khác 2
 nhanh khác 3
 nhanh khác 4
+nhanh khác 5
+nhanh khác 6
 Username...: <?php echo $url->user; ?>
 
 Password...: <?php echo $url->pass; ?>
