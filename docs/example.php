@@ -36,7 +36,7 @@ $url = new Net_URL2(
 <body>
 
 <pre>
-    con khi ướt ướt hết
+    con khi ướt ướt hết merge ở dev từ master
 Protocol cherry test...: <?php echo $url->protocol; ?>
 
 Username...: <?php echo $url->user; ?>
