@@ -2,7 +2,7 @@
 /**
  * Net_URL2, a class representing a URL as per RFC 3986.
  *
- * PHP version 5
+ * PHP version 5 thử stash
  *
  * This file contains code Copyright (c) 2002-2003, Richard Heyes,
  * See BSD-3-CLAUSE-Heyes,
@@ -14,7 +14,7 @@
  * @license  https://spdx.org/licenses/BSD-3-Clause BSD-3-Clause
  * @link     https://tools.ietf.org/html/rfc3986
  */
-
+con khi khô
 /**
 * This example will decode the url given and display its
 * constituent parts.
