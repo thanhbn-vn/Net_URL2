@@ -36,7 +36,7 @@ $url = new Net_URL2(
 <body>
 
 <pre>
-Protocol...: <?php echo $url->protocol; ?>
+Protocol cherry test...: <?php echo $url->protocol; ?>
 
 Username...: <?php echo $url->user; ?>
 
