@@ -1,4 +1,5 @@
 <?php
+ test.
 /**
  * Net_URL2, a class representing a URL as per RFC 3986.
  *
