@@ -14,7 +14,7 @@
  * @license  https://spdx.org/licenses/BSD-3-Clause BSD-3-Clause
  * @link     https://tools.ietf.org/html/rfc3986
  */
-
+con khi khô
 /**
 * This example will decode the url given and display its
 * constituent parts.
